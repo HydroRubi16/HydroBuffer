@@ -1,6 +1,6 @@
 # HydroBuffer
-A Klipper based buffer to feed, unload and synchronize filament delivery to the toolhead
-
+A Klipper based buffer to feed, unload and synchronize filament delivery to the toolhead  
+![](images/HydroBuffer.jpg)
 
 
 The buffer consists of four parts:  
